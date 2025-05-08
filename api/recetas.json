@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pollo al horno",
+        "imagen": "https:\/\/www.themealdb.com\/images\/media\/meals\/1520084413.jpg",
+        "descripcion": "Delicioso pollo al horno, jugoso por dentro y crujiente por fuera.",
+        "precio": 12.99
+    },
+    {
+        "id": 2,
+        "nombre": "Arroz con pollo",
+        "imagen": "https:\/\/www.themealdb.com\/images\/media\/meals\/1529444830.jpg",
+        "descripcion": "Un cl\u00e1sico de la cocina latina, arroz con pollo y verduras frescas.",
+        "precio": 10.5
+    },
+    {
+        "id": 3,
+        "nombre": "Pollo a la parrilla",
+        "imagen": "https:\/\/www.themealdb.com\/images\/media\/meals\/1520084413.jpg",
+        "descripcion": "Pollo marinado y cocinado a la parrilla con un toque de hierbas.",
+        "precio": 11
+    },
+    {
+        "id": 4,
+        "nombre": "Pollo a la mostaza",
+        "imagen": "https:\/\/www.themealdb.com\/images\/media\/meals\/1529444830.jpg",
+        "descripcion": "Pollo cubierto con una deliciosa salsa de mostaza y miel.",
+        "precio": 13.75
+    }
+]
